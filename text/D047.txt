@@ -1,0 +1,9 @@
+Vendor: Vendor 3
+Invoice: MISSING3
+Date: 2025-03-10
+Currency: USD
+Item: Demo office supply
+Quantity: 4
+Unit price: 24.00
+Subtotal: 96.00
+Total: 103.68

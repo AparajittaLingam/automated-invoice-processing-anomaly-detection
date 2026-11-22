@@ -1,0 +1,1 @@
+Student resources. Read PROJECT_GUIDE.md and DATA_DICTIONARY.md. Python3.10+; baseline uses standard library unless otherwise stated. Optional modeling packages are in requirements.txt. No instructor ZIP or image files supplied. Final modeling/analysis remains student work.

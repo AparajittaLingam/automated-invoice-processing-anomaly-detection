@@ -1,0 +1,1 @@
+evaluation/field_truth.csv: expected billed fields, missing tax is blank; split defines grouped partition. labels.csv: is_anomaly/issue_type/duplicate_of evaluation only. documents are text PDFs, text counterparts permit dependency-free parsing mechanics. Dates ISO, currency code USD, monetary fields decimal amounts.

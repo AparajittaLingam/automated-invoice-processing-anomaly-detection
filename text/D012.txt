@@ -1,0 +1,10 @@
+Vendor: Vendor 4
+Invoice: INV012
+Date: 2025-03-12
+Currency: USD
+Total: 113.40
+Tax: 8.40
+Subtotal: 105.00
+Unit price: 21.00
+Quantity: 5
+Item: Demo office supply
