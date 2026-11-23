@@ -1,0 +1,14 @@
+SYNTHETIC STUDENT SAMPLE
+
+Vendor: Vendor 2
+Invoice: MISSING2
+Date: 2025-03-09
+Currency: USD
+Total: 74.52
+Subtotal: 69.00
+Unit price: 23.00
+Quantity: 3
+
+Item: Demo office supply
+
+Original fictional content. Educational use only.

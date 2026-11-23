@@ -1,0 +1,15 @@
+SYNTHETIC STUDENT SAMPLE
+
+Vendor: Vendor 2
+Invoice: INVO026
+Date: 2025-03-01
+Currency: USD
+Total: 518.40
+Tax: 38.40
+Subtotal: 480.00
+Unit price: 160.00
+Quantity: 3
+
+Item: Demo office supply
+
+Original fictional content. Educational use only.
